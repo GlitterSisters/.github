@@ -8,8 +8,8 @@ We're a duo of scientists who like to code. This is our space for building littl
 
 | Project | What it does | Status |
 | --- | --- | --- |
-| [period-predictor](https://github.com/GlitterSisters/period-predictor) | Analyze period logs, find patterns, visualize them, and predict the next start date. | 🌱 Planning |
-| glitter (name TBD) | Add glitter to your plots. A fun add-on for making matplotlib and seaborn figures sparkle. | 💡 Idea |
+| [period-predictor](https://github.com/GlitterSisters/period-predictor) | Analyze period logs, find patterns, visualize them, and predict the next start date. | Planning |
+| [glitter-plot](https://github.com/GlitterSisters/glitter) | Add glitter to your plots. A fun add-on for making matplotlib and seaborn figures sparkle. | In Progress |
 
 ## 🛠️ How we work
 
